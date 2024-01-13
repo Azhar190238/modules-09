@@ -266,18 +266,19 @@ border-radius: 8px;
     .facts-card-container{
         gap: 20px;
     }
+    .footer1{
+        margin:0px;
+        border-radius: 8px;
+        background: #FFF4E7;
+        padding: 0px;
+        color: #424242;
+        text-align: center; 
+        max-width: 300px; 
+        padding: 10px 70px;
+    }
 
 }
-.footer1{
-    margin:0px;
-    border-radius: 8px;
-    background: #FFF4E7;
-    padding: 0px;
-    color: #424242;
-    text-align: center; 
-    max-width: 300px; 
-    padding: 10px 70px;
-}
+
 /* tablet or medium devices */
 @media screen and (min-width:576px) and (max-width: 960px) {
     header {
